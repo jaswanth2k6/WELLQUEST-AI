@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backup files
+*backup*.py
+app_before_*.py
+app_phase1_final_backup.py
+pp_before_*.py
+
+# Environment secrets
+.env
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+basic steps for mvc.txt

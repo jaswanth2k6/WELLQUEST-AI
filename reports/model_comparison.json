@@ -1,0 +1,14 @@
+{
+    "Logistic Regression": {
+        "accuracy": 0.8818,
+        "precision_macro": 0.8818,
+        "recall_macro": 0.8821,
+        "f1_macro": 0.882
+    },
+    "Random Forest": {
+        "accuracy": 0.8818,
+        "precision_macro": 0.8826,
+        "recall_macro": 0.8821,
+        "f1_macro": 0.8816
+    }
+}
